@@ -1,0 +1,6 @@
+{
+  "name": "SkillSpike AI",
+  "description": "AI-powered placement preparation platform for college students featuring personalized roadmaps, DSA practice, aptitude quizzes, interview coaching, resume analysis, and career assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
